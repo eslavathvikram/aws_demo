@@ -1,0 +1,12 @@
+{
+  "name": "aws-ec2-demo",
+  "version": "1.0.0",
+  "description": "Simple Node.js application for AWS EC2 deployment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
